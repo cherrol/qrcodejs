@@ -5,10 +5,10 @@ QRCode.js has no dependencies.
 ## Npm packages
 ```
 # install
-pnpm i @cherrol/qrcode -S
+pnpm i @cherrol/qrcodejs -S
 
 # import
-import QRCode from '@cherrol/qrcode'
+import QRCode from '@cherrol/qrcodejs'
 ```
 ## Standalone Browser Scripts
 ```
